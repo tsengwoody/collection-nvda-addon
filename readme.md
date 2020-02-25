@@ -1,0 +1,1 @@
+# collect nvda addon
